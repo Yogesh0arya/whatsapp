@@ -22,5 +22,8 @@
     "react-timeago": "^5.2.0",
     "styled-components": "^5.2.3",
     "timeago-react": "^3.0.2"
+  },
+  "resolutions": {
+    "postcss-scss": "4.0.4"
   }
 }
